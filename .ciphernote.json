@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "kdf": {
+    "algorithm": "PBKDF2",
+    "hash": "SHA-256",
+    "iterations": 600000,
+    "salt": "9g5/4QnOaPDdpp0MVkjFgw=="
+  },
+  "verifier": {
+    "version": 1,
+    "iv": "36byGx7i8huRb3TX",
+    "ciphertext": "iyKuRYfRhLqEC0V/5Zus2flLyM3cHo2pNhLqwCxyyOsubFR5AzBgb6U="
+  }
+}
